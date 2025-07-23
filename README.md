@@ -4,7 +4,8 @@ model for a real-world use case.
 
 ## Task 1: UML Class Diagram:
 
-<img width="1024" height="1024" alt="UML" src="https://github.com/user-attachments/assets/d2bf9e8b-663e-4ec3-be61-b05019557fe7" />
+<img width="1024" height="1536" alt="UML" src="https://github.com/user-attachments/assets/3ff54c9f-9ff3-44cd-ac9e-bf3ebfedb63f" />
+
 
 ## Task 2: JavaScript Code / Pseudocode:
 ```
